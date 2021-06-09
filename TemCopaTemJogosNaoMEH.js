@@ -9,7 +9,7 @@ function solucao(ano) {
     if(ehOlimp % 4 === 0){
        console.log ("JOGOS");
     }
-    else if(ehCopa % 4 === 0){
+    else if(ehCopa % 4 == 0){
        console.log ("COPA");
     }
     else{
